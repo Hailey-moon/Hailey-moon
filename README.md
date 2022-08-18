@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on my portfolio site made with React.js and hosted on GitHub Pages :octocat:
 - 🌱 I'm currently learning everything :baby:
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her :raising_hand:
 - :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
 
 <!--
