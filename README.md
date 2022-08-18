@@ -1,7 +1,5 @@
 ### Hi there, I'm Hailey 👋:crescent_moon:
 
-/play tada
-
 - 🔭 I'm currently working on my portfolio site made with React.js and hosted on GitHub Pages :octocat:
 - 🌱 I'm currently learning everything :baby:
 - 😄 Pronouns: she/her
