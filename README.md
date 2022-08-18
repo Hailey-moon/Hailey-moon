@@ -5,7 +5,9 @@
 - 😄 Pronouns: she/her :woman:
 - :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+### My Skills :wrench:
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,docker,figma,git,java,py,react,vim)](https://skills.thijs.gg)
 <!--
 
 - 🔭 I’m currently working on ...
