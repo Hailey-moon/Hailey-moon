@@ -1,4 +1,5 @@
-![LinkedInBackground](https://user-images.githubusercontent.com/82325205/185460445-9e7eb922-6030-4f8d-bccc-76ad5f41c19c.png)
+![GitHub-README-Banner](https://user-images.githubusercontent.com/82325205/185466786-1f9eae5c-2ce5-4509-a56a-ff64c58e2a49.png)
+
 
 
 ### Hi there, I'm Hailey 👋:crescent_moon:
