@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Hailey 👋:crescent_moon:
+
+/play tada
+
+- 🔭 I'm currently working on my portfolio site made with React.js and hosted on GitHub Pages :octocat:
+- 🌱 I'm currently learning everything :baby:
+- 😄 Pronouns: she/her
+- :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
 
 <!--
-**Hailey-moon/Hailey-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
