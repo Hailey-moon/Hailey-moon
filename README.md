@@ -7,7 +7,7 @@
 
 ### My Skills :wrench:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,docker,figma,git,java,py,react,vim)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,js,html,css,docker,figma,java,py,react,vim)](https://skills.thijs.gg)
 <!--
 
 - 🔭 I’m currently working on ...
