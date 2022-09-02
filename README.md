@@ -3,7 +3,7 @@
 ### Hi there, I'm Hailey 👋:crescent_moon:
 
 - 🔭 I'm currently working on my portfolio site made with React.js and hosted on GitHub Pages :octocat:
-- 🌱 I'm currently learning everything :baby:
+- 🌱 I'm currently learning everything :baby: But most currently modern frontend frameworks (React, Vue), algorithms and data structures!
 - 😄 Pronouns: she/her :woman:
 - :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
 
