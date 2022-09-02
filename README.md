@@ -1,4 +1,4 @@
-![GH Iter 1](https://user-images.githubusercontent.com/82325205/188211280-ba341e25-2872-431a-8194-c111c8375488.png)
+![GH Iter 3](https://user-images.githubusercontent.com/82325205/188211854-8074c555-0127-4435-8254-731e0225885e.png)
 
 ### Hi there, I'm Hailey 👋:crescent_moon:
 
