@@ -1,8 +1,7 @@
 ![GH Iter 3](https://user-images.githubusercontent.com/82325205/188211854-8074c555-0127-4435-8254-731e0225885e.png)
 
-### Hi there, I'm Hailey 👋:crescent_moon:
+### Hi there, I'm Hailey 👋
 
-- 🔭 I'm currently working on my portfolio site made with React.js and hosted on GitHub Pages :octocat:
 - 🌱 I'm currently learning everything :baby: But most currently modern frontend frameworks (React, Vue), algorithms and data structures!
 - 😄 Pronouns: she/her :woman:
 - :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
