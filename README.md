@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Hailey 👋
 
-- 🌱 I'm currently learning everything :baby: But most currently modern frontend frameworks (React, Vue), algorithms and data structures!
+- 🌱 I'm currently learning everything :baby: Most recently, I've been interested in data analytics and data visualization.
 - 😄 Pronouns: she/her :woman:
-- :lemon: Fun fact: I love trying new food! (Last new food tried: red chili curry & makrut lime crispy rice ice cream :ice_cream:)
+- :lemon: Fun fact: I love trying new food! (Last new food tried: Jasmine & Sea Salt Ganache ice cream from Honeycomb Creamery:ice_cream:)
 
 ### My Skills :wrench:
 
