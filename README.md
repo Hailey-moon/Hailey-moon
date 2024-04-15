@@ -1,4 +1,4 @@
-![GH Iter 3](https://user-images.githubusercontent.com/82325205/188211854-8074c555-0127-4435-8254-731e0225885e.png)
+![GH (dark mode)](https://github.com/Hailey-moon/Hailey-moon/assets/82325205/aa8ffb2c-c552-4ab6-aa69-6eeff66a8b0c)
 
 ### Hi there, I'm Hailey 👋
 
