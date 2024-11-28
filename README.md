@@ -2,13 +2,10 @@
 
 ### Hi there, I'm Hailey 👋
 
-- 🌱 I'm currently learning everything :baby: Most recently, I've been interested in data analytics and data visualization.
+- 🌱 I'm currently learning everything :baby: Most recently, I've been interested in full stack development and CI/CD.
 - 😄 Pronouns: she/her :woman:
-- :lemon: Fun fact: I love trying new food! (Last new food tried: Jasmine & Sea Salt Ganache ice cream from Honeycomb Creamery:ice_cream:)
+- :lemon: Fun fact: I love trying new food! (Last new food tried: Swiss Chocolate Jamaican ice cream :ice_cream:)
 
-### My Skills :wrench:
-
-[![My Skills](https://skills.thijs.gg/icons?i=git,js,html,css,docker,figma,java,py,react,vim)](https://skills.thijs.gg)
 <!--
 
 - 🔭 I’m currently working on ...
